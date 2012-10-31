@@ -1,18 +1,17 @@
-Source: gdm-themes
+Source: mdm-themes
 Section: gnome
 Priority: optional
-Maintainer: Josselin Mouette <joss@debian.org>
-Uploaders: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Maintainer: John Paul Adrian Glaubitz <glaubitz@physik.fu-berlin.de>
 Build-Depends: debhelper (>> 4.0.0), gnome-pkg-tools
 Standards-Version: 3.8.0
 
-Package: gdm-themes
+Package: mdm-themes
 Architecture: all
-Depends: gdm (>> 2.4)
-Enhances: gdm
-Description: Themes for the GNOME Display Manager
- This package provides a few additional themes for the GNOME Display
+Depends: mdm
+Enhances: mdm
+Description: Themes for the MDM Display Manager
+ This package provides a few additional themes for the MDM Display
  Manager's greeter, giving different looks to your graphical login
  screen.
  .
- To select them, use the gdmsetup software.
+ To select them, use the mdmsetup software.
