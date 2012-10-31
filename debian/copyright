@@ -1,0 +1,46 @@
+This package was debianized by Josselin Mouette <joss@debian.org> on
+Sat, 21 Jun 2003 16:49:04 +0200.
+
+It was downloaded from http://art.gnome.org/
+		       http://ftp.ximian.com/pub/xd2/redhat-9-i386/source/
+		       http://www.73lab.com/
+		       http://debblue.debian.net/
+		       http://gnome-look.org/
+
+Upstream Authors: Alex Fraser <alex@phatcore.com>
+		  Everaldo Coelho <everaldo@everaldo.com>
+		  Niek van der Maas <n.v.d.maas@hccnet.nl>
+		  Johannes Rebhan <waldgeist@gomp.net>
+		  Burcin Donmez <bdonmez@cisunix.unh.edu>
+		  "J3TBibi" <cstbb568@icqmail.com>
+		  "Hantzley" <hantzley@intnet.mu>
+		  Jakub Steiner <jimmac@ximian.com>
+		  Mariano Viola <webanetwork@libero.it>
+		  Alexis Younes <73lab@free.fr>
+		  Jaap Haitsma <jaap@haitsma.org>
+		  Mostafa Afgani <m.afgani@gmail.com>
+		  "e0n" <e0n@alexandria.cc>
+		  Étienne Alaurent <etienne.alaurent@free.fr>
+		  Tuomas Kuosmanen <tigert@novell.com>
+		  Henrique Lhamas <henrique.lhamas@gmail.com>
+		  Lars Wohlfahrt (yoda)
+                  Eric Hewitt <endersshadow@politicalcrossfire.com>
+
+Copyright:
+
+   This package is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; version 2 dated June, 1991.
+ 
+   This package is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+ 
+   You should have received a copy of the GNU General Public License
+   along with this package; if not, write to the Free Software
+   Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
+   02110-1301, USA.
+ 
+On Debian systems, the complete text of the GNU General
+Public License can be found in `/usr/share/common-licenses/GPL'.

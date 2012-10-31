@@ -1,0 +1,11 @@
+# This is not really a .desktop file like the rest, but it's useful to treat
+# it as such
+
+[GdmGreeterTheme]
+Encoding=UTF-8
+Greeter=industrial.xml
+Name=Industrial
+Description=Ximian Gnome GDM default theme
+Author=Jakub Steiner <jimmac@ximian.com>
+Copyright=(c) 2002 Ximian, Inc.
+Screenshot=screenshot.png

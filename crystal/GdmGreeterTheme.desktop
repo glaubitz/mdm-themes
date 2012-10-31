@@ -1,0 +1,10 @@
+# This is not really a .desktop file like the rest, but it's useful to treat
+# it as such
+
+[GdmGreeterTheme]
+Greeter=Crystal.xml
+Name=KDE Crystal
+Description=Crystal Theme by Niek van der Maas. All images are made by Everaldo - www.everaldo.com
+Author=Niek van der Maas
+Screenshot=screenshot.png
+Copyright=(c) Niek van der Maas - Images by Everaldo

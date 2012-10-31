@@ -1,0 +1,12 @@
+# This is not really a .desktop file like the rest, but it's useful to treat
+# it as such
+
+[GdmGreeterTheme]
+Greeter=cleangnome.xml
+Name=CleanGnome
+Description=CleanGnome GDM Theme
+Author=Lars Wohlfahrt
+Copyright=GPL
+Screenshot=screenshot.png
+
+

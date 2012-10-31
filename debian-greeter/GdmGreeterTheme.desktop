@@ -1,0 +1,8 @@
+[GdmGreeterTheme]
+Encoding=UTF-8
+Greeter=debiangreeter.xml
+Name=Debian Greeter
+Description=A simple GDM theme for Debian
+Author=Mariano Viola
+Copyright=(c) 2005 Mariano Viola
+Screenshot=screenshot.png

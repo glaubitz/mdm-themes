@@ -1,0 +1,7 @@
+[GdmGreeterTheme]
+Greeter=olho.xml
+Name=Brasillinux Eye
+Description=The login manager is watching you
+Author=Henrique Lhamas
+Copyright=Brasillinux.org
+Screenshot=screenshot.png

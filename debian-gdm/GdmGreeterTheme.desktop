@@ -1,0 +1,6 @@
+[GdmGreeterTheme]
+Greeter=debian-gdm.xml
+Name=Debian
+Description=A simple Gdm theme for Debian 
+Author=Mariano Viola
+Screenshot=screenshot.png

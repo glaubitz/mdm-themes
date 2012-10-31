@@ -1,0 +1,9 @@
+# This is not really a .desktop file like the rest, but it's useful to treat
+# it as such
+
+[GdmGreeterTheme]
+Greeter=GNOME-GlassFoot.xml
+Name=Glass Foot
+Description=Based on the Glass Foot wallpaper
+Author=Burcin Donmez
+Screenshot=screenshot.png

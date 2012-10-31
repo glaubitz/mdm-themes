@@ -1,0 +1,9 @@
+[GdmGreeterTheme]
+Encoding=UTF-8
+Greeter=LiNsta-Gnome.xml
+Name=LiNsta
+Name[fr]=LiNsta
+Description=LiNsta is Not Vista ;-) GDM theme with Gnome logo
+Author=Etienne Alaurent
+Copyright=GPL Etienne Alaurent
+Screenshot=screenshot.png

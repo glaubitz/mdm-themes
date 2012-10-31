@@ -1,0 +1,7 @@
+[GdmGreeterTheme]
+Greeter=GnomeBlack.xml
+Name=Gnome Black
+Description=A Black GDM for Gnome lovers
+Author=Eric Hewitt
+Copyright=2005 Eric Hewitt
+Screenshot=screenshot.png

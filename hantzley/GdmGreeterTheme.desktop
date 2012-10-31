@@ -1,0 +1,9 @@
+# This is not really a .desktop file like the rest, but it's useful to treat
+# it as such
+
+[GdmGreeterTheme]
+Greeter=hantzley.xml
+Name=Hantzley
+Description=The famous yellow GNOME
+Author=Hantzley <hantzley@intnet.mu>
+Screenshot=screenshot.png
